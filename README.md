@@ -75,3 +75,8 @@ Error Logging: Handles failed connections and broken pages gracefully
 🎉 Your system is now equipped to import and manage popular, trending, and critically acclaimed books from Goodreads with just one click.
 
 ⚠️ This scraping feature is intended for educational or personal library projects. Make sure to review Goodreads’ Terms of Service before deploying commercially.
+![image](https://github.com/user-attachments/assets/32ff907d-fb11-4353-9969-edf29a29af43)
+![image](https://github.com/user-attachments/assets/4e11c84e-47d1-435d-846b-5237b5bae235)
+![image](https://github.com/user-attachments/assets/d88f85f1-5c7b-4e82-98ca-8f77b038c4db)
+![image](https://github.com/user-attachments/assets/9830a89d-3af2-4871-8bef-1492e3c00eb4)
+
